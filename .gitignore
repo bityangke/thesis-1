@@ -1,2 +1,4 @@
-#don't commit following file for the moment
-importimage.py
+#garbage files
+
+#no need to commit weights file. also too big
+vgg16_weights.h5
