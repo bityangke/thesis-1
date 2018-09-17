@@ -2,3 +2,7 @@
 
 #no need to commit weights file. also too big
 vgg16_weights.h5
+bottleneck_features_train
+bottleneck_features_validation
+fc_model.h5
+first_try.h5
